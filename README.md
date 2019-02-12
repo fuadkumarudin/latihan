@@ -1,11 +1,13 @@
-# latihan
+Algoritma menentukan nilai terbesar dari 3 buah bilangan
 
-cara memasukan photo
+1.Mulai
 
-# ![GitHub Logo]( bil b terbesar.png) <h2>
+2.Insiasi Bil a, bil b, bil c sebagai integer
 
--Mulai
--Inisiasi bil1,bil2,bil3
+3.Baca bil a
 
-# ![GitHub Logo](bil c terbesar.png)
+4.Baca Bil b
+
+![source code program menentukan bilangan terbesar dari 3 buah 
+bilangan](https://user-images.githubusercontent.com/45659243/52652091-08867800-2f20-11e9-9703-28453cde1365.png)
 
